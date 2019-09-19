@@ -1,0 +1,15 @@
+﻿  src1.0.cpp
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(47): warning C4305: '=': truncation from '__int64' to 'int'
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(47): warning C4309: '=': truncation of constant value
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(48): warning C4305: '=': truncation from '__int64' to 'int'
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(48): warning C4309: '=': truncation of constant value
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(65): warning C4305: '=': truncation from '__int64' to 'int'
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(65): warning C4309: '=': truncation of constant value
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(66): warning C4305: '=': truncation from '__int64' to 'int'
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(66): warning C4309: '=': truncation of constant value
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(70): warning C4305: '=': truncation from '__int64' to 'int'
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(70): warning C4309: '=': truncation of constant value
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(71): warning C4305: '=': truncation from '__int64' to 'int'
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(71): warning C4309: '=': truncation of constant value
+d:\dev\jetblackblunopoly\snake_1\snake_1\src\src1.0.cpp(233): warning C4101: 'input': unreferenced local variable
+  SNAKE_1.vcxproj -> D:\Dev\JetBlackBlunopoly\SNAKE_1\SNAKE_1\bin\x64\Debug\SNAKE_1.exe
