@@ -1,0 +1,6 @@
+﻿  executor.cpp
+d:\dev\jetblackblunopoly\thestart\anotherveryintriguing\.src\executor.cpp(20): warning C4101: 'i': unreferenced local variable
+  Source.cpp
+  Source1.cpp
+  Generating Code...
+  AnotherVeryIntriguing.vcxproj -> D:\Dev\JetBlackBlunopoly\TheStart\AnotherVeryIntriguing\bin\x64\Debug\AnotherVeryIntriguing.exe

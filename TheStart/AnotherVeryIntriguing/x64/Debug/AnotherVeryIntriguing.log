@@ -1,0 +1,7 @@
+﻿  executor.cpp
+d:\dev\jetblackblunopoly\thestart\anotherveryintriguing\.src\executor.cpp(1): fatal error C1083: Cannot open include file: 'D:\Dev\JetBlackBlunopoly\TheStart\Project1\.h\vanila.h': No such file or directory
+  Source.cpp
+d:\dev\jetblackblunopoly\thestart\anotherveryintriguing\.src\source.cpp(1): fatal error C1083: Cannot open include file: 'D:\Dev\JetBlackBlunopoly\TheStart\Project1\.h\vanila.h': No such file or directory
+  Source1.cpp
+d:\dev\jetblackblunopoly\thestart\anotherveryintriguing\.src\source1.cpp(1): fatal error C1083: Cannot open include file: 'D:\Dev\JetBlackBlunopoly\TheStart\Project1\.h\vanila.h': No such file or directory
+  Generating Code...
