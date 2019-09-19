@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+d:\users\administrator\source\repos\guitest1\windowsproject2\stdafx.cpp(78): warning C4715: 'WindowProcedure': not all control paths return a value
+  WindowsProject2.cpp
+  WindowsProject2.vcxproj -> D:\Users\Administrator\source\repos\GUItest1\GUItest1\Debug\WindowsProject2.exe
